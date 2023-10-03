@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nama_bandara":"Soekarno-Hatta (CGK)",
+        "pajak":50000
+    }
+    ,
+    {
+        "id":2,
+        "nama_bandara":"Husein Sastranegara (BDO)",
+        "pajak":30000
+    }
+    ,
+    {
+        "id":3,
+        "nama_bandara":"Abdul Rachman Saleh (MLG)",
+        "pajak":40000
+    }
+    ,
+    {
+        "id":4,
+        "nama_bandara":"Abdul Rachman Saleh (MLG)",
+        "pajak":40000
+    }
+    
+]
